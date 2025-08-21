@@ -5,10 +5,13 @@
 CCTV中文国际 | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/CCTV4.png |
 https://www.youtube.com/watch?v=SdzewdkJa-o
 
-鳳凰資訊 | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/凤凰资讯台.png |
-https://www.youtube.com/watch?v=LNux6O0Fj6A
+鳳凰衛視 | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/HK/凤凰卫视.png |
+https://www.youtube.com/watch?v=BLaQVW5oUGU
 
-TVBS | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/TVBS.png |
+TVBS新聞台 | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/TW/TVBS新聞台.png |
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+
+TVBS選新聞 | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/TVBS選新聞.png |
 https://www.youtube.com/watch?v=o_-hSMgpAzs
 
 TVBS NEWS | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/TVBS NEWS.png |
@@ -25,9 +28,6 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 中視新聞 | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/中視新聞.png |
 https://www.youtube.com/watch?v=TCnaIE_SAtM
-
-中天亞洲 | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/中天亞洲.png |
-https://www.youtube.com/watch?v=dKkyfjn8xq8
 
 中天新聞 | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/中天新闻台.png |
 https://www.youtube.com/watch?v=vr3XyVCR4T0
@@ -55,6 +55,18 @@ https://www.youtube.com/watch?v=hGJkDZDchYI
 
 三立+ | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/三立 Plus.png |
 https://www.youtube.com/watch?v=MV9mI0GChwo
+
+THE K-POP | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/THE%20K-POP.png |
+https://www.youtube.com/watch?v=JVocS7Yftw8
+
+Astro AWANI | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/Astro Awani.png |
+https://www.youtube.com/watch?v=mkVyNaGee8A
+
+Entertainment - Mediacorp | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/Entertainment - Mediacorp.png |
+https://www.youtube.com/watch?v=ipqTkEH3mhE
+
+Al Jazeera English | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/Al Jazeera English.png |
+https://www.youtube.com/watch?v=gCNeDWCI0vo
 
 ABC News | | https://raw.githubusercontent.com/wangjun99999/logo/refs/heads/main/Y2B/ABC News.png |
 https://www.youtube.com/watch?v=mvUkiILTqI
